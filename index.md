@@ -25,7 +25,7 @@
 
 ---
 [Project 6 Glitter 3D text effect]()
-<img src="images/Coffeeeffect.jpg?raw=true"/>
+<img src="images/glittertext.jpg?raw=true"/>
 
 ---
 ### My Web Design Project
