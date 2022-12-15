@@ -5,7 +5,7 @@
 ### Graphic Design Project
 
 [Project 1: Winter Wonderland Surreal edit]()
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/winterwonderland.mp4?raw=true"/>
 
 ---
 [Project 2: Abstract Effect]()
