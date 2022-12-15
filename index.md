@@ -19,7 +19,16 @@
 [Project 4 Pop Art Effect]()
 <img src="images/popart.jpg?raw=true"/>
 
-### Category Name 2
+---
+[Project 5 Coffee Effect]()
+<img src="images/Coffeeeffect.jpg?raw=true"/>
+
+---
+[Project 6 Coffee Effect]()
+<img src="images/Coffeeeffect.jpg?raw=true"/>
+
+---
+### My Web Design Project
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -28,8 +37,10 @@
 - [Project 5 Title](http://example.com/)
 
 ---
+### My MidTerm Project
 
 
+-
 
 
 ---
