@@ -4,7 +4,7 @@
 
 ### Graphic Design Project
 
-[Project 1: Winter Wonderland Surreal edit]()
+[Project 1: Stencil Art]()
 <img src="images/winterwonderland.mp4?raw=true"/>
 
 ---
