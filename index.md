@@ -20,8 +20,8 @@
 <img src="images/popart.jpg?raw=true"/>
 
 ---
-[Project 5 Coffee Effect]()
-<img src="images/Coffeeeffect.jpg?raw=true"/>
+[Project 5 Tiger Project]()
+<img src="images/Tiger.png?raw=true"/>
 
 ---
 [Project 6 Coffee Effect]()
