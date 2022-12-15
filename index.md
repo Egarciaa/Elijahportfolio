@@ -30,11 +30,11 @@
 ---
 ### My Web Design Project
 
-- [Project 1 Title](https://trinket.io/html/d29026e6fc)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1 Birthday Click](https://trinket.io/html/d29026e6fc)
+- [Project 2 Earth PJ Remix](https://trinket.io/html/427cde3162)
+- [Project 3 Tell a Story Remix](https://trinket.io/html/3049ef98fe)
+- [Project 4 Build a Robot](https://trinket.io/html/81c2b8b127)
+- [Project 5 Sunrise Remix](https://trinket.io/html/8cda527e3c)
 
 ---
 ### My MidTerm Project
