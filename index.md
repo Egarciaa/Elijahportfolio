@@ -24,7 +24,7 @@
 <img src="images/Tiger.png?raw=true"/>
 
 ---
-[Project 6 Coffee Effect]()
+[Project 6 Glitter 3D text effect]()
 <img src="images/Coffeeeffect.jpg?raw=true"/>
 
 ---
