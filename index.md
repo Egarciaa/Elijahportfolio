@@ -4,11 +4,11 @@
 
 ### Graphic Design Project
 
-[Project 1: Ripped Text Effect](/sample_page)
+[Project 1: Winter Wonderland Surreal edit]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2: Galexy Cat](/pdf/sample_presentation.pdf)
+[Project 2: Abstract Effect]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
