@@ -5,7 +5,7 @@
 ### Graphic Design Project
 
 [Project 1: Stencil Art]()
-<img src="images/winterwonderland.mp4?raw=true"/>
+<img src="images/stencilart.jpg?raw=true"/>
 
 ---
 [Project 2: Abstract Effect]()
